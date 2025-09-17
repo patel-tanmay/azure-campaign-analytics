@@ -1,0 +1,13 @@
+# Ignore datasets
+*.csv
+*.parquet
+/data/
+
+# Ignore local environment / secrets
+.env
+*.key
+*.pem
+
+# Ignore system files
+.DS_Store
+Thumbs.db
