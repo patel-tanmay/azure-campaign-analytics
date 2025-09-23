@@ -112,6 +112,3 @@ We implemented and compared two modeling frameworks:
 * Qini curve > ROC/AUC for uplift
 * Class transformation is simpler + performs better on tree models
 * Azure + Databricks pipeline ensures scalability for large marketing datasets
-
-Let’s lock in the final steps!
-```
