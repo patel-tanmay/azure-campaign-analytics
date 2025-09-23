@@ -73,7 +73,7 @@ We implemented and compared two modeling frameworks:
 | 📈 Plot                      
 | -----------------------------
 | Qini Curves (All Models)     
-| Feature Importance (Optional) 
+| Feature Importance
 | Architecture Diagram         
 
 ---
